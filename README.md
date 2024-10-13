@@ -1,5 +1,5 @@
 CAN Protocol
-What is CAN?
+<li>What is CAN?</li>
 CAN Features
 CAN Properties
 CAN Frames
