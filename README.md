@@ -1,8 +1,8 @@
 CAN Protocol
 <li>What is CAN?</li>
-CAN Features
-CAN Properties
-CAN Frames
-CAN Errors
-Extended CAN
-CAN FD
+<li>CAN Features</li>
+<li>CAN Properties</li>
+<li>CAN Frames</li>
+<li>CAN Errors</li>
+<li>Extended CAN</li>
+<li>CAN FD</li>
